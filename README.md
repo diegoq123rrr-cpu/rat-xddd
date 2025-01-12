@@ -38,8 +38,8 @@
 
 ## Disclaimer
 
-THIS SOFTWARE IS PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND. YOU MAY USE THIS SOFTWARE AT YOUR OWN RISK. THE USE IS COMPLETE RESPONSIBILITY OF THE END-USER. THE DEVELOPERS ASSUME NO LIABILITY AND ARE NOT RESPONSIBLE FOR ANY MISUSE OR DAMAGE CAUSED BY THIS PROGRAM.
-
+> [!TIP]
+> THIS SOFTWARE IS PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND. YOU MAY USE THIS SOFTWARE AT YOUR OWN RISK. THE USE IS COMPLETE RESPONSIBILITY OF THE END-USER. THE DEVELOPERS ASSUME NO LIABILITY AND ARE NOT RESPONSIBLE FOR ANY MISUSE OR DAMAGE CAUSED BY THIS PROGRAM.
 
 ## Table of contents
 
@@ -57,19 +57,19 @@ THIS SOFTWARE IS PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND. YOU MAY USE THIS
 
 | Feature         |  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>   |  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/> |
 |:----------------|:-------:|:------:|
-| `Reverse Shell` |    X    |    X   |
-| `Download File` |    X    |    X   |
-| `Upload File`   |    X    |    X   |
-| `Delete File`   |    X    |    X   |
-| `Screenshot`    |    X    |    X   |
-| `File Explorer` |    X    |    X   |
-| `Get OS Info`   |    X    |    X   |
-| `Run Hidden`    |    X    |        |
-| `Restart`       |    X    |    X   |
-| `Shutdown`      |    X    |    X   |
-| `Lock screen`   |    X    |        |
-| `Sign out`      |    X    |        |
-| `Open Url`      |    X    |    X   |
+| `Reverse Shell` |    V    |    V   |
+| `Download File` |    V    |    V   |
+| `Upload File`   |    V    |    V   |
+| `Delete File`   |    V    |    V   |
+| `Screenshot`    |    V    |    V   |
+| `File Explorer` |    V    |    V   |
+| `Get OS Info`   |    V    |    V   |
+| `Run Hidden`    |    V    |        |
+| `Restart`       |    V    |    V   |
+| `Shutdown`      |    V    |    V   |
+| `Lock screen`   |    V    |        |
+| `Sign out`      |    V    |        |
+| `Open Url`      |    V    |    V   |
 
 ## Quick start
 
