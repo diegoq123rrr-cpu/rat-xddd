@@ -32,9 +32,13 @@
 
     <!-- Toggle -->
     <link href="static/css/bootstrap4-toggle.min.css" rel="stylesheet">
+
+    <!-- Cinematic Theme (override layer, must load last) -->
+    <link rel="stylesheet" href="static/css/cinematic.css">
 </head>
 
-<body class="bg-white">
+<body>
+<div class="cinematic-scanlines"></div>
 {{ template "header" . }}
 
 <main class="container-fluid">
