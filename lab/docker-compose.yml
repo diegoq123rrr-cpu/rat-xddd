@@ -1,0 +1,17 @@
+services:
+  chaos:
+    build:
+      context: ..
+      dockerfile: Dockerfile
+    image: chaos:lab
+    container_name: chaos-lab
+    restart: unless-stopped
+    ports:
+      - "8080:8080"
+    environment:
+      PORT: "8080"
+      SQLITE_DATABASE: "chaos"
+      GIN_MODE: "release"
+    volumes:
+      - ./data/database:/database
+      - ./data/temp:/temp
